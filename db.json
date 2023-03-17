@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "adam22",
+      "email": "mad22@yahoo.com",
+      "address": "london",
+      "contact": "dasdas",
+      "id": 2
+    },
+    {
+      "name": "xxxx7788",
+      "email": "xx9999@gmail.com",
+      "contact": "23424300000",
+      "address": "dasdas8888",
+      "id": 4
+    },
+    {
+      "name": "ahmed",
+      "email": "ahmed22@gmail.com",
+      "contact": "676777",
+      "address": "gulshan",
+      "id": 5
+    }
+  ]
+}
